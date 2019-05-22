@@ -1,10 +1,10 @@
 
 ![Icon](https://github.com/Povstalez/Kefir-Updater/blob/master/icon_header.jpg)
 # What is it?
-**Kefir Updater** is a homebrew for Nintendo switch, which can update `Kefir` (https://github.com/rashevskyv/switch/releases) by **one-click**!
+**Kefir Updater** is a homebrew for Nintendo switch, which can update [Kefir](https://github.com/rashevskyv/switch/releases) by **one-click**!
 
 ## Instruction for automatic update
-1. Download `KefirUpdater.nro`
+1. Download `KefirUpdater.nro` from [releases](https://github.com/Povstalez/Kefir-Updater/releases)
 2. Put it into *`sdmc://switch/kefirupdater`* (only this path)
 3. Run `Kefir Updater` from hbmenu
 4. Press `Check updates`
